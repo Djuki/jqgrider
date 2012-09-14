@@ -1,0 +1,6 @@
+{
+    "name": "Djuki/jqgrider",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
