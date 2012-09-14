@@ -1,6 +1,19 @@
 {
     "name": "Djuki/jqgrider",
+    "type": "library",
+    "description": "Generating jqGrid from PHP",
+    "keywords": ["jqgrid","grid"],
+    "homepage": "https://github.com/Djuki/jqgrider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Đurđevac",
+            "email": "djurdjevac@gmail.com",
+            "homepage": "https://github.com/Djuki",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.3.0"
     }
 }
